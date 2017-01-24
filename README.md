@@ -2,7 +2,7 @@
 This project implements a realtime raytracer in the Schwarzschild-metric (a sphere with a black hole inside).
 
 It is written with Visual Studio in C++, but has no real dependence on it.  
-It used FreeGlut and GLEW for OpenGl and SOIL (licenses included).
+It used FreeGlut 3.0.0 and GLEW 1.13.0 for OpenGl and SOIL (licenses included).
 
 You can refer to my bachelor thesis about background info:  
 [link to be placed here]
